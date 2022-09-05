@@ -1,2 +1,2 @@
 # react-user-profiles-component-v8
-Created with CodeSandbox
+React component that features user profiles and emails. 
